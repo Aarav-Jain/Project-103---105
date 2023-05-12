@@ -1,0 +1,35 @@
+body{
+    background-color: Pink;
+}
+
+.heading{
+    border-color: black;
+    border-width: 5px;
+    width: 80%;
+    font-size: 25px;
+}
+
+#camera{
+  border: 2px dashed;
+  width: 350px;
+  height: 300px;
+}
+
+#resu
+
+.name_of_objects, #result_object_name, #result_object_accuracy{
+  color: blue;
+
+}
+
+#p1, #p2{
+    color: crimson;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
